@@ -10,5 +10,4 @@ Learned from <a href="https://www.youtube.com/watch?v=EUMpUUXKvP0">This tutorial
 #Virtual Environment Setup-
 1. Run in terminal: python -m venv venv
 2. Run in terminal:
-   MacOS: source venv/bin/activate
-   Windows: venv\scripts\activate
+   MacOS: source venv/bin/activate | Windows: venv\scripts\activate
