@@ -1,2 +1,3 @@
-# Basic-Student-Management-System
-A Basic student management system using Django
+# Basic-Student-Management-System [ Creating a virtual environment is required]
+
+Learned from <a href="https://www.youtube.com/watch?v=EUMpUUXKvP0">This tutorial</a>
